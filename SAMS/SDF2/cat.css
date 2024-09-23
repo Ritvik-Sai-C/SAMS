@@ -1,0 +1,55 @@
+
+
+.maj-min-form {
+    background-color: #fff;
+    margin: 5% 10% 10% 10%;
+    padding: 5%
+    
+}
+.navbar-colour{
+    background-color: black;
+}
+
+.link-colour {
+    color: red;
+}
+
+.maj-dropdown {
+    color: #111;
+    background-color: #fff;
+}
+
+.choosefile {
+    padding-left: 16px;
+}
+
+.comments-box {
+    margin-left: 16px;
+}
+.maj-min-text {
+    color: #0992ee
+}
+
+.maj-min-menu {
+    height: 35px;
+}
+
+.maj-min-option {
+    padding: 50px;
+}
+
+.oth-fac-checkbox {
+    padding-left: 16px;
+}
+
+.carousel-changes {
+    padding-top: 50px;
+    width: 1320px;
+    height: 50px;
+    max-height: 500px;
+}
+
+.item-size {
+    max-height: 500px;
+}
+

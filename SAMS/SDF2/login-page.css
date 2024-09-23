@@ -1,0 +1,46 @@
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .bg {
+    /* The image used */
+    background-image: url("hand-painted-watercolor-pastel-sky-background_23-2148902771.webp");
+    background-color: #DFF6FF;
+    
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .box {
+    position: absolute;
+    top:0px;
+    right:0px;
+    bottom:0px;
+    left:0px;
+  }
+
+h1 {
+    text-align: center;
+    color: #0992ee;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 50px;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+.login-image{
+  padding-top: 150px;
+  margin-left: 0;
+}
+
+.loginpage-box {
+  padding-top: 20px;
+  
+}
